@@ -1,3 +1,35 @@
-baseURL = "http://example.org/"
+baseURL = "https://gear.codes"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "hello-friend-ng"
+title = "Gears: All you need for software development"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "All you need for software development"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = true
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "Software Development Tools"
+  keywords = "software, development, tools"
+  images = [""]
+
+[taxonomies]
+    category = "products"
+    #tag = "tags"
+    #series = "series"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "ceres"
+    name       = "Ceres: iOS Simulator Tools"
+    url        = "/ceres"
