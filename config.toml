@@ -3,6 +3,7 @@ languageCode = "en-us"
 theme = "hello-friend-ng"
 title = "Gears"
 disableKinds = ["RSS"]
+googleAnalytics = "G-ZVMJB2YJS2"
 
 [params]
   dateform        = "Jan 2, 2006"
