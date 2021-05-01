@@ -3,13 +3,14 @@ languageCode = "en-us"
 theme = "hello-friend-ng"
 title = "Gears"
 disableKinds = ["RSS"]
-googleAnalytics = "G-ZVMJB2YJS2"
+googleAnalyticsID = "G-ZVMJB2YJS2"
 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+  googleAnalyticsID = "G-ZVMJB2YJS2"
 
   # Subtitle for home
   homeSubtitle = "Software development tools"
