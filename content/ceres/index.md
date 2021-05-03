@@ -1,5 +1,5 @@
 ---
-title: iOS Simulator Helpers
+title: iOS Simulator Gear
 ---
 
 Features| 

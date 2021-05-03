@@ -49,5 +49,5 @@ googleAnalyticsID = "G-ZVMJB2YJS2"
   # And you can even create generic menu
   [[menu.main]]
     identifier = "ceres"
-    name       = "Ceres: iOS Simulator Tools"
+    name       = "Ceres: iOS Simulator Gear"
     url        = "/ceres"
