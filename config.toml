@@ -33,8 +33,8 @@ googleAnalyticsID = "G-ZVMJB2YJS2"
 [languages]
   [languages.en]
     title = "Gears"
-    subtitle = "All you need for software development"
-    keywords = "software, development, tools"
+    subtitle = "Software development"
+    keywords = "software, development, tools, iOS, mobile"
     #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     #readOtherPosts = "Read other posts"
 
